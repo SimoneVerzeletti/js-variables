@@ -3,7 +3,7 @@
 // Stampa il valore di nome nella console.
 
 let name= "Simone";
-console.log(name);
+console.log(name); //Perché mi barra il nome?
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
@@ -15,7 +15,7 @@ let bool;
 
 number= "15";
 text= "Questa è una stringa";
-bool= "1"
+bool= "false"
 console.log(number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
